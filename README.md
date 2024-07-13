@@ -30,5 +30,6 @@ I am a computer science student and a web developer aspiring to become a softwar
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" title="VScode" width="40" height="40" />&nbsp;
-  <img src="" alt="" title="" width="40" height="40" />&nbsp;
 </div>
+## 📊 Stats
+[![merzouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=merzouka)](https://github.com/anuraghazra/github-readme-stats)
