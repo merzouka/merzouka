@@ -31,8 +31,10 @@ I am a computer science student and a web developer aspiring to become a softwar
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" title="VScode" width="40" height="40" />&nbsp;
 </div>
+
 ## 📊 Stats
 
-[![merzouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=merzouka&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merzouka&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![merzouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=merzouka&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merzouka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=merzouka&theme=tokyonight)](https://git.io/streak-stats)
 
