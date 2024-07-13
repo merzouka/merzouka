@@ -1,7 +1,7 @@
 ## 🌠 About me
 I am a computer science student and a web developer aspiring to become a software architect, i have collaborated on many projects working both on the front-end and the back-end. Currently i'm learning more about software architecture, using Go as the language to power my back-ends. I am currently looking for internship and collaboration opportunities. Feel free to reach out to me using my 📧 email: ya.merzouka@esi-sba.dz or [LinkedIn](www.linkedin.com/in/merzouka-youness-70baba2a6).
 
-## 🧰 Technologies I know
+## 🧰 Toolbox
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" />&nbsp;
@@ -14,7 +14,7 @@ I am a computer science student and a web developer aspiring to become a softwar
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="NextJS" title="NextJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="40" height="40" />
@@ -25,4 +25,10 @@ I am a computer science student and a web developer aspiring to become a softwar
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" title="VScode" width="40" height="40" />&nbsp;
+  <img src="" alt="" title="" width="40" height="40" />&nbsp;
 </div>
