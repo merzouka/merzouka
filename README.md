@@ -33,5 +33,6 @@ I am a computer science student and a web developer aspiring to become a softwar
 </div>
 ## 📊 Stats
 
-[![merzouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=merzouka)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![merzouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=merzouka&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merzouka&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
