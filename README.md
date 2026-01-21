@@ -35,6 +35,7 @@ I am a meticulous M2 Computer Science engineering student with hands-on experien
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" width="40" height="40" />&nbsp;
 </div>
 ## 📊 Stats
+
 [![merzouka's GitHub stats](https://github-readme-stats.vercel.app/api?username=merzouka&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merzouka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=merzouka&theme=tokyonight)](https://git.io/streak-stats)
