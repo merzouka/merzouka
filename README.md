@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-younes--merzouka.vercel.app-0f172a?style=for-the-badge&logoColor=white)](https://younes-merzouka.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merzouka-youness-70baba2a6)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/merzouka)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesmerzouka@gmail.com)
 [![GCP](https://img.shields.io/badge/Google_Certified-ACE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-engineer)
 
@@ -80,9 +81,10 @@ CS Engineering student with hands-on experience across the **full development pi
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merzouka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merzouka&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merzouka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merzouka&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merzouka&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=merzouka&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e3a&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
 
